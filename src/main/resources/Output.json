@@ -1,0 +1,19 @@
+{
+  "customerList": [
+    {
+      "customerName": "pavan",
+      "transactions": [
+        100,
+        200
+      ],
+      "calculatedPoints": 300
+    },
+    {
+      "customerName": "kumar",
+      "transactions": [
+        110
+      ],
+      "calculatedPoints": 70
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "customerList": [
+    {
+      "customerName": "pavan",
+      "transactions": [
+        100,
+        200
+      ]
+    },
+    {
+      "customerName": "kumar",
+      "transactions": [
+        110
+      ]
+    }
+  ]
+}
