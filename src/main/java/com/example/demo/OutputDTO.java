@@ -1,7 +1,7 @@
 package com.example.demo;
 
 import java.util.List;
-
+/* */
 public class OutputDTO {
     private List<CustomerDTO> customerList;
 
